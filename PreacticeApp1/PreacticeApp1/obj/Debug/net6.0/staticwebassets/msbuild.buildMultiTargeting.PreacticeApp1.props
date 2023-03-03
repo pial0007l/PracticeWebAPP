@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PreacticeApp1.props" />
+</Project>
